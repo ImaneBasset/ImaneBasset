@@ -3,8 +3,8 @@
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/imane-basset/"><img height="30" src="src/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:imanebasset22@gmail.com"><img height="30" src="src/gmail.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/imane-basset/"><img height="30" src="pics/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:imanebasset22@gmail.com"><img height="30" src="pics/gmail.png"></a>&nbsp;&nbsp;
 </p>
 
 <img src="pics/Woman Coding GIF by Pluralsight.gif" alt="coder gif" align="right" width="350" height="auto" />
