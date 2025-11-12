@@ -38,16 +38,16 @@
 </p>
 
 <hr>
-
+<!-- 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ImaneBasset&show_icons=true&theme=tokyonight" alt="Imane Basset's GitHub stats" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImaneBasset&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneBasset&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
